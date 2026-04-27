@@ -135,4 +135,4 @@ This project demonstrates the practical use of **AI + Computer Vision** in real-
 output example
 ## 📸 Output Screenshot
 
-![Output](Screenshot output.png)
+![Output](imagesoutput.png)
